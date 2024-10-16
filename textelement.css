@@ -1,0 +1,28 @@
+h2{
+    text-align: center;
+    background-color: rgb(1,0,138);
+    color:white
+}
+.price{
+   background-color: rgb(236,21,62);
+   color: white;
+}
+.old-price{
+    text-decoration: line-through;
+}
+.shipping{
+letter-spacing: 5px;
+text-transform: uppercase;
+}
+.details-title{
+    text-transform: uppercase;
+}
+.details-list{
+    color: rgb(56,69,171);
+}
+.add-cart{
+    background-color: black;
+    color: white;
+    text-transform: uppercase;
+    border: none;
+}
